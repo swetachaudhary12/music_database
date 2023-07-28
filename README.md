@@ -7,6 +7,7 @@ The primary objective of this project was to perform data manipulation and analy
 Tools and Technologies Used:
 
 PostgreSQL: An open-source relational database management system known for its robustness and scalability.
+
 pgAdmin 7: An open-source administration and development platform providing a user-friendly GUI for PostgreSQL.
 Key Project Tasks:
 
