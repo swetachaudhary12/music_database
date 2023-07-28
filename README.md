@@ -10,12 +10,6 @@ PostgreSQL: An open-source relational database management system known for its r
 pgAdmin 7: An open-source administration and development platform providing a user-friendly GUI for PostgreSQL.
 Key Project Tasks:
 
-Data Import: Imported the provided dataset into PostgreSQL database for analysis.
-SQL Queries: Executed SQL queries in pgAdmin 7 to answer specific business questions.
-Question Sets: Analyzed three question sets (Easy, Moderate, and Advanced) to derive insights.
-Results: Obtained meaningful results on sales, top customers, popular genres, and more.
-Documentation: Created a well-structured README file to document the project's process and findings.
-Skills Demonstrated:
 
 
 
