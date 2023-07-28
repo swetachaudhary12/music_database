@@ -5,5 +5,7 @@ Project Objective:
 The main objective of this project is to gain insights into the music store's sales, customer behavior, popular genres, top customers, and spending patterns. By executing SQL queries in pgAdmin 7, we aim to perform data manipulations and analysis to derive meaningful results.
 
 Database and Tools
- Postgre SQL
- PgAdmin7
+
+PostgreSQL
+
+pgAdmin 7
